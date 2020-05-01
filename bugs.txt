@@ -1,1 +1,3 @@
 1. When you press the button to delete an image that is currently active 
+
+NOTA: No javascript, esqueci-me de fazer com o prompt(nabo), por isso, só da para adicionar/eliminar as imagens do carrosel.
